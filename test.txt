@@ -1,0 +1,4 @@
+cards = 18                          l,
+border = rectangle
+font = arial,28, B, #0000FF
+text = 1, "SEER",0,3,6,3,center
