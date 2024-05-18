@@ -1,0 +1,8 @@
+cards = 4
+UNIT = CM
+CARDSIZE = 2, 2
+border = RECTANGLE, #0, 0.1
+RECTANGLE=1-4, 0%, 0%, 100%, 100%, "#85836f"
+TEXTFONT = 1-4, "Bakery", 0, 0.5, 2, 2, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#85836f
+IMAGE = 1-2, "1coin.blue.png", 0.7,0.5,0.7,0.7,TP
+IMAGE = 3-4, "1coin.blue.png", 0.7,0.5,0.7,0.7,TP

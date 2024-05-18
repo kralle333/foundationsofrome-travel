@@ -1,0 +1,17 @@
+cards = 2
+UNIT = CM
+CARDSIZE = 4, 4
+RECTANGLE=1-2, 0, 0, 2, 2, "#e9d7a6"
+RECTANGLE=1-2, 0, 2, 4, 2, "#e9d7a6"
+border = RECTANGLE, #0, 0.1
+RECTANGLE=1-2, 50%, 0%, 0.05, 50%, "0"
+RECTANGLE=1-2, 50%, 50%, 50%, 0.05, "0"
+
+TEXTFONT = 1-2, "Insula", 1, 2.5, 2, 1, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#e9d7a6
+IMAGE = 1, "insula.blue.png", 3-0.7/2,0.5,0.7,0.7,0,P
+IMAGE = 2, "insula.blue.png", 3-0.7/2,0.5,0.7,0.7,0,P
+
+
+
+
+

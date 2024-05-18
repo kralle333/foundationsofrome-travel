@@ -1,0 +1,14 @@
+cards = 2
+UNIT = CM
+CARDSIZE = 4, 4
+RECTANGLE=1-2, 0, 0, 4, 4, "#e9d7a6"
+border = RECTANGLE, #0, 0.1
+
+TEXTFONT = 1-2, "Grand Insula", 0.5, 2.5, 3, 1, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#e9d7a6
+IMAGE = 1, "grandinsula.blue.png", 1.7,1.5,0.7,0.7,TP
+IMAGE = 2, "grandinsula.red.png", 1.7,0.5,0.7,0.7,TP
+
+
+
+
+

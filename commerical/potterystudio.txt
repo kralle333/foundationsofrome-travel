@@ -1,0 +1,9 @@
+cards = 4
+UNIT = CM
+CARDSIZE = 4, 2
+border = RECTANGLE, #0, 0.1
+RECTANGLE=1-4, 0%, 0%, 100%, 100%, "#85836f"
+TEXTFONT = 1-4, "Pottery Studio", 0, 0.5, 4, 2, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#85836f
+IMAGE = 1-2, "1coin.blue.png", 2-0.7/2,0.5,0.7,0.7,0,P
+IMAGE = 3-4, "1coin.red.png", 2-0.7/2,0.5,0.7,0.7,0,P
+IMAGE = 1-4, "vp2.png", 3-0.7/2,0.5,0.7,0.7,0,P

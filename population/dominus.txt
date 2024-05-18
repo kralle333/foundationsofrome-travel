@@ -1,0 +1,11 @@
+cards = 4
+UNIT = CM
+CARDSIZE = 2, 2
+border = RECTANGLE, #0, 0.1
+RECTANGLE=1-4, 0%, 0%, 100%, 100%, "#e9d7a6"
+TEXTFONT = 1-4, "Domus", 0, 0.5, 2, 2, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#e9d7a6
+IMAGE = 1-2, "domus.blue.png", 0.7,0.5,0.7,0.7,TP
+IMAGE = 3-4, "domus.red.png", 0.7,0.5,0.7,0.7,TP
+
+
+

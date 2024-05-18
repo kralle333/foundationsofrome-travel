@@ -1,0 +1,10 @@
+cards = 2
+UNIT = CM
+CARDSIZE = 4, 4
+RECTANGLE=1-2, 0, 0, 4, 4, "#85836f"
+border = RECTANGLE, #0, 0.1
+
+TEXTFONT = 1-2, "Foundry", 0.5, 2.5, 3, 1, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#85836f
+IMAGE = 1, "3coin.blue.png", 1.7,1.5,0.7,0.7,TP
+IMAGE = 2, "3coin.blue.png", 1.7,0.5,0.7,0.7,TP
+IMAGE = 1-2, "vp5.png", 3-0.7/2,1.5,0.7,0.7,0,P
