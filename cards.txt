@@ -4,6 +4,7 @@ link=cards.ods
 UNIT = mm
 border = ROUNDED, #dbaa33, 2
 CARDSIZE = 40,60
-font="DM Serif Display",50,B,[color],#ece6d9
+font="Linux Libertine Mono",50,B,[color],#ece6d9
 text=1-{(name)},[name],0,0,100%,100%
+
 

@@ -4,5 +4,5 @@ UNIT = CM
 CARDSIZE = 2, 2
 RECTANGLE=1-8, 0%, 0%, 100%, 100%, "#e4e0d5"
 border = RECTANGLE, #0, 0.1
-TEXTFONT = 1-8, [name], 0, 0.5, 2, 2, CENTER, CENTER,0,100, "DM Serif Display",12,,#000000,#e4e0d5
+TEXTFONT = 1-8, [name], 0, 0.5, 2, 2, CENTER, CENTER,0,100, "Linux Libertine Mono",12,,#000000,#e4e0d5
 IMAGE = 1-8, [image], 0.7,0.5,0.7,0.7,TP

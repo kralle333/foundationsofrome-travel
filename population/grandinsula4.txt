@@ -3,6 +3,6 @@ UNIT = CM
 CARDSIZE = 8, 2
 border = RECTANGLE, #0, 0.1
 RECTANGLE=1-4, 0%, 0%, 100%, 100%, "#e9d7a6"
-TEXTFONT = 1-4, "Grand Insula", 2, 0.5, 4, 2, CENTER, CENTER,0,100, "DM Serif Display",14,,#000000,#e9d7a6
+TEXTFONT = 1-4, "Grand Insula", 2, 0.5, 4, 2, CENTER, CENTER,0,100, "Linux Libertine Mono",14,,#000000,#e9d7a6
 IMAGE = 1, "grandinsula.blue.png", 4-0.7/2,0.5,0.7,0.7,0,P
 IMAGE = 2, "grandinsula.red.png", 4-0.7/2,0.5,0.7,0.7,0,P
