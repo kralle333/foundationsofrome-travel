@@ -7,10 +7,10 @@ border = RECTANGLE, #0, 0.1
 RECTANGLE=1-2, 50%, 0%, 0.05, 50%, "0"
 RECTANGLE=1-2, 50%, 50%, 50%, 0.05, "0"
 
-TEXTFONT = 1-2, "Artisan Forum", 0, 2.5, 4, 1, CENTER, CENTER,0,100, "Linux Libertine Mono",14,,#000000,#85836f
-IMAGE = 1, "2coin.red.png", 0.7,0.5,0.7,0.7,TP
-IMAGE = 2, "2coin.blue.png", 0.7,0.5,0.7,0.7,TP
-IMAGE = 1-2, "vp3.png", 0.7,1.7,0.7,0.7,0,P
+TEXTFONT = 1-2, "Artisan Forum", 0, 2.5, 4, 1, CENTER, CENTER,0,100, "Linux Libertine",14,B,#000000,#85836f
+IMAGE = 1, "2coin.red.png", 1-0.8/2,1-0.8/2,0.8,0.8,TP
+IMAGE = 2, "2coin.blue.png", 1-0.8/2,1-0.8/2,0.8,0.8,TP
+IMAGE = 1-2, "vp3.png", 1-0.8/2,1.65,0.8,0.8,0,P
 
 
 

@@ -1,0 +1,7 @@
+
+UNIT = CM
+GAP = 0.5,0.5
+
+[deck]=dirfiles(*.png)
+CARDSIZE = 4,2
+image=1-{(deck)},[deck],0,0,100%,100%
