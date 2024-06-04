@@ -1,5 +1,5 @@
 LINK = 2x2data.ods
-cards = 4
+cards = 8
 GAP = 0.5,0.5
 UNIT = CM
 CARDSIZE = 4, 2
